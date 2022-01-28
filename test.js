@@ -42,8 +42,3 @@ function getPromocode(promocode) {
     return 100;
   } else return 0;
 }
-
-console.log(getPromocode(73285388));
-console.log(getPromocode(37283988));
-console.log(getPromocode(48183276));
-console.log(getPromocode(84533920));
